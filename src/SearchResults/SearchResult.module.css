@@ -1,0 +1,28 @@
+.search-result {
+    display: flex;
+    margin-top: 10px;
+    margin-right: 10px;
+    margin-left: 10px;
+    margin-bottom: 10px;
+}
+
+.lot-image {
+    margin-right: 1rem;
+}
+
+.lot-info {
+    display: flex;
+    margin-right: 10px;
+    margin-left: 10px;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.lot-address {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    margin-top: 35px;
+    margin-right: 10px;
+    margin-left: 10px;
+}
